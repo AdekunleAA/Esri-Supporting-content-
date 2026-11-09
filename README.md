@@ -10,14 +10,13 @@ Samples of technical writing, product content, and customer enablement work from
 
 | Sample | Description |
 | --- | --- |
-| [Cloud Monitoring and Observability](https://github.com/adekunledeyinka-boop/Technical-writing-portfolio/commit/9d724ffe51f5749d08eab440e97020ff6cda4b0c) | A technical guide on monitoring and observability concepts for cloud environments. |
+
 
 ## Published Blogs
 
 Written for the Esri ArcGIS Blog on ArcGIS for SharePoint (ArcGIS for Microsoft 365).
 
 - [What's New in ArcGIS for SharePoint, October 2022](https://www.esri.com/arcgis-blog/products/esri-maps-sharepoint/analytics/whats-new-in-arcgis-for-sharepoint-october-2022)
-- Dynamic Tool Guide <!-- TODO: replace this line with [Dynamic Tool Guide](correct-url). The link you sent was a duplicate of the October 2022 post. -->
 - [List Tool Guide](https://www.esri.com/arcgis-blog/products/esri-maps-sharepoint/analytics/arcgis-for-sharepoint-list-map)
 
 ## Published Change Logs
@@ -37,4 +36,4 @@ Release notes published on the Esri Community for ArcGIS for SharePoint.
 
 Esri Product Engineer (2022 to 2024) with an M.S. in Geospatial Information Systems. My work focuses on explaining complex GIS and cloud technology clearly to technical and non-technical audiences.
 
-**Contact:** adeoyeadejumokea@gmail.com
+**Contact:** adekunledeyinka@gmail.com
